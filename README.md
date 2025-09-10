@@ -1,6 +1,17 @@
 play the game: https://orangejuiceandlemonadecloud.github.io/BALL-FALL-GITHUB-RELEASE/
 
-changelogs:
+changelogs: 
+--added pause menu to all gamemodes (except legacy)
+--added new music to specials (normal gamemode uses this too as a placeholder)
+--revamped and fixed math special
+
+
+
+
+
+
+
+previous changelogs:
 -changed the King Spike bossfight:
   -Changed and added new dialog
   -The crosshair now beams down spikes quickly
